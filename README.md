@@ -22,7 +22,7 @@ Hoje eu estou aprendendo a programar com o intuito de utilizar o conhecimento ad
 
 Com intuito de mapear as áreas que quero aprender, fiz uma lista de tecnologias que estão no meu roadmap:
 
-1. Git/Github
+1. [Git/Github](https://github.com/Skimifil/Estudos/tree/main/Git)
 2. Docker
 3. JavaScript
 4. MongoDB
