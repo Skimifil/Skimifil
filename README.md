@@ -2,7 +2,7 @@
 
 ---
 
-Meu nome é Rafael Carvalho, mas pode me chamar de Skimi.
+Meu nome é Rafael Pinheiro de Carvalho, mas pode me chamar de Skimifil.
 
 Sou de São Paulo, mas hoje moro em Curitiba (apaixonado nessa cidade).
 
@@ -17,6 +17,8 @@ Hoje eu estou aprendendo a programar com o intuito de utilizar o conhecimento ad
 - Nome: Rafael Carvalho
 - Idade: 29
 - Residência: Curitiba, Brasil
+- Conhecimentos: Zabbix, Prometheus, Linux
+- Universidade: Redes de Computadores - UNINOVE(Finalizado), Ciência da Computação - Descomplica(Cursando) 
 
 ## Roadmap
 
