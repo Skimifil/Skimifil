@@ -14,9 +14,9 @@ Hoje eu estou aprendendo a programar com o intuito de utilizar o conhecimento ad
 
 ## Detalhes pessoais
 
-Nome: Rafael Carvalho
-Idade: 29
-Residência: Curitiba, Brasil
+- Nome: Rafael Carvalho
+- Idade: 29
+- Residência: Curitiba, Brasil
 
 ## Roadmap
 
