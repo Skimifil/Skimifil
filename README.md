@@ -26,7 +26,7 @@ Hoje eu estou aprendendo a programar com o intuito de utilizar o conhecimento ad
 - Nome: Rafael Carvalho
 - Idade: 29
 - Residência: Curitiba, Brasil
-- Conhecimentos: Zabbix, Prometheus, Linux
+- Conhecimentos: Zabbix, Grafana, Prometheus, Linux
 - Universidade: Redes de Computadores - UNINOVE(Finalizado), Ciência da Computação - Descomplica(Cursando) 
 
 ## Roadmap
