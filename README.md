@@ -1,3 +1,12 @@
+<div>
+    <a target='_blank' href="https://linkedin.com/in/rafaelpcarvalho">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+    </a>
+    <a target='_blank' href="https://rpcarvalho.com/">
+        <img src="https://img.shields.io/badge/rpcarvalho-.com-brightgreen">
+    </a>
+</div>
+
 ## SHOW?
 
 ---
