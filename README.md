@@ -11,13 +11,13 @@
 
 ---
 
-Meu nome é Rafael Pinheiro de Carvalho, mas pode me chamar de Skimifil.
+Meu nome é Rafael Pinheiro de Carvalho.
 
 Sou de São Paulo, mas hoje moro em Curitiba (apaixonado nessa cidade).
 
-Eu sou Analista de Monitoração, trabalhando diretamente com a ferramenta Zabbix e Grafana. A cerca de 5 anos eu trabalho na área de T.I., iniciei como Suporte N1 e estou a quatro anos como Analista de Monitoração.
+Eu sou Analista de Observability, trabalhando diretamente com a ferramenta Zabbix, Grafana e ELK. A cerca de 5 anos eu trabalho na área de T.I., iniciei como Suporte N1 e estou a quatro anos na área de Monitoração e Observability.
 
-Hoje eu estou aprendendo a programar com o intuito de utilizar o conhecimento adquirido no meu trabalho, usar as facilidades e automações que a programação pode trazer e integrar com o Zabbix, trazendo mais rapidez nas atividades do dia-a-dia.
+Recentemente eu descobri a área de Dados e comecei a estudar a respeito, iniciei com um curso de Data Analytics, seguinte com Python e Data Science.
 
 ---
 
@@ -29,7 +29,8 @@ Hoje eu estou aprendendo a programar com o intuito de utilizar o conhecimento ad
 - Conhecimentos: Zabbix, Grafana
 - Universidade:
   - Redes de Computadores - UNINOVE(Finalizado)
-  - Ciência da Computação - Descomplica(Cursando) 
+  - Ciência da Computação - Descomplica(Cursando)
+  - Data Analytics - Coder House
 
 ## Roadmap
 
@@ -37,7 +38,8 @@ Com intuito de mapear as áreas que quero aprender, fiz uma lista de tecnologias
 
 1. [Git/Github](https://github.com/Skimifil/Estudos/tree/main/Git)
 2. [Docker](https://github.com/Skimifil/Estudos/tree/main/Docker)
-3. Python
-4. MongoDB
-5. Elastic Search
-6. AWS
+3. Data Analytics
+4. Python
+5. MongoDB
+6. Elastic Search
+7. AWS
