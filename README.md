@@ -11,22 +11,22 @@
 
 ---
 
-Meu nome é Rafael Pinheiro de Carvalho.
+Meu nome é Rafael Pinheiro de Carvalho (Skimifil).
 
-Sou de São Paulo, mas hoje moro em Curitiba (apaixonado nessa cidade).
+Sou de São Paulo, mas hoje moro em Curitiba.
 
-Eu sou Analista de Observability, trabalhando diretamente com a ferramenta Zabbix, Grafana e ELK. A cerca de 5 anos eu trabalho na área de T.I., iniciei como Suporte N1 e estou a quatro anos na área de Monitoração e Observability.
+Eu sou Analista de Observability, trabalhando diretamente com a ferramenta Zabbix, Grafana e ELK. A cerca de 10 anos eu trabalho na área de T.I., iniciei como Suporte N1 e estou a sete anos na área de Monitoração e Observability.
 
-Recentemente eu descobri a área de Dados e comecei a estudar a respeito, iniciei com um curso de Data Analytics, seguinte com Python e Data Science.
+Recentemente eu descobri a área de Dados e comecei a estudar a respeito, a ideia é usar esta área para melhorar minhas entregas na área de Observability.
 
 ---
 
 ## Detalhes pessoais
 
 - Nome: Rafael Carvalho
-- Idade: 29
+- Idade: 31
 - Residência: Curitiba, Brasil
-- Conhecimentos: Zabbix, Grafana
+- Conhecimentos: Zabbix (Especialista), Grafana (Pleno), ELK (Junior), Python (Junior)
 - Universidade:
   - Redes de Computadores - UNINOVE(Finalizado)
   - Ciência da Computação - Descomplica(Cursando)
@@ -42,4 +42,3 @@ Com intuito de mapear as áreas que quero aprender, fiz uma lista de tecnologias
 4. Python
 5. MongoDB
 6. Elastic Search
-7. AWS
